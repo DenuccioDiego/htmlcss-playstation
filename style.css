@@ -9,3 +9,16 @@
 .bg_nero{
      background-color: #000000;
 }
+
+.bg_arancione{
+     background-color: #cd3d0f;
+}
+
+.section_1_bg_image{
+     background-image: url('./img/returnal-listing-thumb-01-ps5.jpg'); 
+     height: 85vh;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size:cover;
+     width: 100%;
+}
