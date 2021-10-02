@@ -1,3 +1,8 @@
+*{
+     font-family: Arial, sans-serif;
+     
+}
+
 .bg_dark{
      background-color: #363636;
 }
@@ -21,4 +26,9 @@
      background-repeat: no-repeat;
      background-size:cover;
      width: 100%;
+}
+
+.border_radius{
+     border-radius:1.3rem;
+     border:solid 2px #0072ce;
 }
