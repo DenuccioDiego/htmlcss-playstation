@@ -33,7 +33,10 @@
 
 .border_radius{
      border-radius:1.3rem;
-     border:solid 2px #0072ce;
+}
+
+#sezione_2_card_speciale{
+     border:solid 2px #0072ce; 
 }
 
 .no_border_cards{
@@ -48,4 +51,9 @@
 
 .section_6_img {
      background-image: url("./img/it-takes-two-hero-banner-desktop.jpg");
+}
+
+.color_sezione7 {
+     background-color: #1f1f1f;
+     color: white;
 }
