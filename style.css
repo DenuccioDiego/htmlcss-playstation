@@ -19,13 +19,16 @@
      background-color: #cd3d0f;
 }
 
-.section_1_bg_image{
-     background-image: url('./img/jumbo-bg.png'); 
+.bg_image{ 
      height: 85vh;
      background-position: center;
      background-repeat: no-repeat;
      background-size:cover;
      width: 100%;
+}
+
+.section_1_img{
+     background-image: url('./img/jumbo-bg.png') 
 }
 
 .border_radius{
@@ -41,4 +44,8 @@
 #card_speciale{
      border-bottom: #0072ce 2px solid !important; 
      
+}
+
+.section_6_img {
+     background-image: url("./img/it-takes-two-hero-banner-desktop.jpg");
 }
