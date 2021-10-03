@@ -35,4 +35,10 @@
 
 .no_border_cards{
      border: none !important;
+     border-radius: 0% ;
+}
+
+#card_speciale{
+     border-bottom: #0072ce 2px solid !important; 
+     
 }
