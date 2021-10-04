@@ -70,3 +70,8 @@
      background-color: #00439c;
 }
 
+.link_footer{
+     background-color: #00439c !important;
+     border: none !important;
+     color: white !important;
+}
